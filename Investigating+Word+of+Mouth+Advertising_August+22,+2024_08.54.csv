@@ -1,0 +1,224 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q5,Q17,Q6,Q6_7_TEXT,Q21,Q10,Q11,Q22,Q29,Q30,Q31,Q32,FL_18_DO,FL_19_DO
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,Q_RecaptchaScore,Please tick to confirm your consent:,How old are you (years)?,How would you best describe your gender? - Selected Choice,How would you best describe your gender? - Prefer to describe in another way - Text,How humorous (funny) would you rate the review?,How would you rate the spelling and grammar within the review?,How valuable did you find the review?,How likely do you think you are to purchase this book?,How humorous (funny) would you rate the review?,How would you rate the spelling and grammar within the review?,How valuable did you find the review?,How likely do you think you are to purchase this vacuum?,FL_18 - Block Randomizer - Display Order,FL_19 - Block Randomizer - Display Order
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID4""}","{""ImportId"":""QID17_TEXT""}","{""ImportId"":""QID6""}","{""ImportId"":""QID6_7_TEXT""}","{""ImportId"":""QID24""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID25""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""FL_18_DO""}","{""ImportId"":""FL_19_DO""}"
+2024-06-14 11:55:56,2024-06-14 11:57:33,Survey Preview,100,96,True,2024-06-14 11:57:33,R_2eRA8mG6wQAhGnZ,preview,EN,,I consent,,,,,,,,,,,,,
+2024-06-14 14:01:34,2024-06-14 14:03:08,Survey Preview,100,93,True,2024-06-14 14:03:09,R_2DhqIk7kWUx2J1v,preview,EN,,I consent,,,,,,,,,,,,,
+2024-06-17 09:22:13,2024-06-17 09:23:32,Survey Preview,100,78,True,2024-06-17 09:23:32,R_8MMuO3BN2UMKjm3,preview,EN,1,I consent,,,,,,,,,,,,notfunny/nospellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-06-20 05:35:04,2024-06-20 05:36:56,Survey Preview,100,111,True,2024-06-20 05:36:56,R_2rcBUNOr6VzZtkt,preview,EN,1,I consent,,,,,,,,,,,,Notfunny/spellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-06-26 11:25:13,2024-06-26 11:37:20,Survey Preview,100,727,True,2024-06-26 11:37:21,R_8PH4QtJtqxChnuV,preview,EN,1,I consent,,,,,,,,,,,,FunnybutnospellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-06-26 11:49:42,2024-06-26 11:52:48,Survey Preview,100,186,True,2024-06-26 11:52:48,R_8DinTRnK36KMsA9,preview,EN,1,I consent,,,,,,,,,,,,FunnybutspellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-07-04 12:54:52,2024-07-04 13:35:38,IP Address,100,2445,True,2024-07-04 13:35:38,R_8NEXl5K3MOF1p4M,qr,EN,,I consent,26,Male,,3,"1
+Very poor","1
+Not at all valuable","1
+Not at all likely","1
+Not at all humorous",5,6,5,FunnybutspellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-07-04 16:28:13,2024-07-04 16:32:50,IP Address,100,276,True,2024-07-04 16:32:50,R_829J6lCyIrbBBVK,qr,EN,1,I consent,23,Male,,4,5,5,5,6,6,"7
+Very valuable",6,notfunny/nospellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-07-04 16:33:49,2024-07-04 16:35:15,IP Address,100,85,True,2024-07-04 16:35:16,R_2EhWHjghFsgrFfq,qr,EN,1,I consent,23,Male,,5,6,5,5,6,6,"7
+Very valuable","7
+Very likely",FunnybutnospellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-07-08 06:15:26,2024-07-08 06:17:23,IP Address,100,117,True,2024-07-08 06:17:24,R_27D7lzLi2AIbxjW,anonymous,EN,1,I consent,35,Male,,,,,,,,,,notfunny/nospellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-07-08 05:50:45,2024-07-08 06:18:18,IP Address,100,1653,True,2024-07-08 06:18:19,R_811TdpaaRAYqtEt,anonymous,EN,1,I consent,,Female,,"1
+Not at all humorous",2,3,"1
+Not at all likely",,,,,Notfunny/spellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-07-08 06:18:57,2024-07-08 06:19:45,IP Address,100,48,True,2024-07-08 06:19:45,R_8sZqTbOMftTojzh,anonymous,EN,1,I consent,,,,,,,,,,,,FunnybutspellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-07-08 07:47:26,2024-07-08 07:51:33,IP Address,100,247,True,2024-07-08 07:51:34,R_8Hk8Axi29AhuaIg,anonymous,EN,1,I consent,24,Male,,6,5,"7
+Very valuable",2,2,6,"7
+Very valuable","7
+Very likely",Notfunny/spellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-07-08 08:49:39,2024-07-08 08:50:58,IP Address,100,79,True,2024-07-08 08:50:59,R_2YZsYAIzWcGSj3r,anonymous,EN,1,I consent,25,Male,,"7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely","7
+Extremely humorous",6,5,"7
+Very likely",FunnybutspellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-07-08 09:04:30,2024-07-08 09:06:46,IP Address,100,136,True,2024-07-08 09:06:47,R_4hsdwZtN24w1cZE,anonymous,EN,1,I consent,24,Male,,"7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely","7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely",FunnybutnospellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-07-08 09:22:48,2024-07-08 09:31:45,IP Address,100,536,True,2024-07-08 09:31:45,R_8Zj1VqsRVLSZGeJ,anonymous,EN,1,I consent,25,Male,,6,5,6,6,3,"1
+Very poor",3,3,notfunny/nospellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-07-08 15:37:44,2024-07-09 12:23:38,IP Address,100,74754,True,2024-07-09 12:23:39,R_8otlYU7y2uJyj3b,anonymous,EN,1,I consent,61,Female,,4,4,"1
+Not at all valuable","1
+Not at all likely","1
+Not at all humorous",3,3,3,FunnybutspellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-07-09 14:34:02,2024-07-09 14:36:33,IP Address,100,151,True,2024-07-09 14:36:33,R_2rpg86rWOknoVNv,anonymous,EN,1,I consent,27,Female,,"1
+Not at all humorous",4,4,2,3,"1
+Very poor",3,4,notfunny/nospellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-07-11 14:51:11,2024-07-11 14:56:56,IP Address,100,345,True,2024-07-11 14:56:56,R_8Lj2XIdY5d2mCgM,anonymous,EN,1,I consent,52,Male,,3,4,4,4,5,4,5,5,notfunny/nospellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-07-13 05:43:33,2024-07-13 05:46:19,IP Address,100,165,True,2024-07-13 05:46:19,R_8GI8MCG2f5zjuyy,qr,EN,1,I consent,,Male,,"7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely","7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely",FunnybutspellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-07-14 03:01:40,2024-07-14 03:16:06,IP Address,100,865,True,2024-07-14 03:16:07,R_8jXIuL2aL4YkvUB,qr,EN,1,I consent,31,Male,,"1
+Not at all humorous",3,2,"1
+Not at all likely",3,"7
+Very good",6,6,Notfunny/spellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-07-08 06:19:51,2024-07-15 03:10:46,IP Address,100,593455,True,2024-07-15 03:10:47,R_8CgacUJg3r7Oqbj,anonymous,EN,1,I consent,30,Male,,,,,,,,,,FunnybutnospellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-07-08 05:56:47,2024-07-08 05:57:33,IP Address,21,46,False,2024-07-15 05:57:38,R_2eWnTAJCl0QOulo,anonymous,EN,1,I consent,,,,,,,,,,,,,
+2024-07-08 07:38:36,2024-07-08 07:39:07,IP Address,8,31,False,2024-07-15 07:39:09,R_2qaN5cWzQ0A017N,anonymous,EN,1,,,,,,,,,,,,,,
+2024-07-08 07:42:36,2024-07-08 07:42:52,IP Address,4,15,False,2024-07-15 07:42:54,R_80Ac2hb3aJb2VDX,anonymous,EN,1,,,,,,,,,,,,,,
+2024-07-08 08:02:07,2024-07-08 08:03:10,IP Address,21,63,False,2024-07-15 08:03:16,R_8d4iBb5Xb8PFqJV,anonymous,EN,1,I consent,,,,,,,,,,,,,
+2024-07-08 11:06:25,2024-07-08 11:06:49,IP Address,13,24,False,2024-07-15 11:06:53,R_2Si3VKYFjMHdUQH,anonymous,EN,1,,,,,,,,,,,,,,
+2024-07-08 11:26:08,2024-07-08 11:27:09,IP Address,42,60,False,2024-07-15 11:27:12,R_8Le8Wr0Ktuoe9Z4,anonymous,EN,1,I consent,27,Male,,,,,,,,,,Notfunny/spellingerrorsBOOK,
+2024-07-08 11:51:43,2024-07-08 11:52:48,IP Address,4,65,False,2024-07-15 11:52:49,R_88mH2kmUwF2BKsV,anonymous,EN,1,,,,,,,,,,,,,,
+2024-07-08 13:15:55,2024-07-08 13:17:45,IP Address,8,109,False,2024-07-15 13:17:51,R_8pnUij9nUShy1Oy,anonymous,EN,1,,,,,,,,,,,,,,
+2024-07-08 15:47:11,2024-07-08 15:47:27,IP Address,4,15,False,2024-07-15 15:47:36,R_8GKTtnNUDa0hXjj,anonymous,EN,1,,,,,,,,,,,,,,
+2024-07-15 03:10:55,2024-07-16 13:12:54,IP Address,100,122518,True,2024-07-16 13:12:55,R_4CeNaZyzOXbzCrQ,anonymous,EN,1,I consent,30,Male,,"7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely",,,,,FunnybutspellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-07-16 13:12:59,2024-07-16 13:51:38,IP Address,100,2318,True,2024-07-16 13:51:39,R_23TZN6hq7CQYCwg,anonymous,EN,1,I consent,,,,,,,,,,,,FunnybutnospellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-07-17 08:35:47,2024-07-17 09:58:07,IP Address,100,4939,True,2024-07-17 09:58:07,R_2oO7LxwqBNoorN9,anonymous,EN,1,I consent,,,,,,,,,,,,FunnybutspellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-07-10 14:16:41,2024-07-10 14:18:48,IP Address,46,126,False,2024-07-17 14:18:49,R_8d3dsAHvor6IVLH,anonymous,EN,1,I consent,46,Female,,,,,,,,,,FunnybutnospellingerrorsBOOK,
+2024-07-18 04:00:49,2024-07-18 04:06:46,IP Address,100,357,True,2024-07-18 04:06:47,R_2BmVPffU8nBGCIN,anonymous,EN,1,I consent,,,,,,,,,,,,notfunny/nospellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-07-18 08:02:03,2024-07-18 08:03:38,IP Address,100,95,True,2024-07-18 08:03:39,R_2i8vhXRkw0Rvy4G,anonymous,EN,1,I consent,20,Male,,"7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely","7
+Extremely humorous","7
+Very good",,"7
+Very likely",FunnybutnospellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-07-11 16:07:47,2024-07-11 16:07:54,IP Address,4,7,False,2024-07-18 16:07:56,R_8TgFzrBDAPYcdwt,anonymous,EN,1,,,,,,,,,,,,,,
+2024-07-20 05:12:20,2024-07-20 05:18:49,IP Address,100,389,True,2024-07-20 05:18:50,R_8pDWgZ02GI7jh7j,qr,EN,0.699999988079071,I consent,37,Male,,"1
+Not at all humorous",3,3,4,5,3,2,4,Notfunny/spellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-07-13 05:47:24,2024-07-13 05:50:50,IP Address,46,205,False,2024-07-20 05:50:51,R_2awtCqvuUILurEA,qr,EN,1,I consent,55,Female,,,,,,,,,,FunnybutnospellingerrorsBOOK,
+2024-07-17 09:18:00,2024-07-22 12:08:37,IP Address,100,442237,True,2024-07-22 12:08:38,R_81SYVL5ivSLJ3bv,anonymous,EN,1,I consent,,,,,,,,,,,,FunnybutspellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-07-22 12:08:40,2024-07-22 13:17:44,IP Address,100,4144,True,2024-07-22 13:17:45,R_2CeOXzE8hOvIntV,anonymous,EN,1,I consent,,,,,,,,,,,,notfunny/nospellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-07-23 09:04:51,2024-07-23 09:19:29,IP Address,100,878,True,2024-07-23 09:19:30,R_2ToPwUmd6P4tUPy,anonymous,EN,1,I consent,28,Male,,3,4,3,3,"1
+Not at all humorous","1
+Very poor","1
+Not at all valuable","1
+Not at all likely",FunnybutnospellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-07-16 11:52:56,2024-07-16 11:58:24,IP Address,42,327,False,2024-07-23 11:58:31,R_2XxDskdFzgd9Tgd,anonymous,EN,1,I consent,,,,,,,,,,,,Notfunny/spellingerrorsBOOK,
+2024-07-17 03:53:17,2024-07-17 04:25:05,IP Address,42,1908,False,2024-07-24 04:25:07,R_896q83V4BysUAf1,anonymous,EN,1,I consent,,,,,,,,,,,,notfunny/nospellingerrorsBOOK,
+2024-07-18 04:07:13,2024-07-18 04:07:31,IP Address,8,18,False,2024-07-25 04:07:37,R_8OkpJ9Y5ifETEy4,anonymous,EN,1,,,,,,,,,,,,,,
+2024-07-20 17:04:36,2024-07-20 18:56:53,IP Address,96,6736,False,2024-07-27 18:56:55,R_8fHdNcEj1lKQS63,anonymous,EN,1,I consent,,,,,,,,,,,,Notfunny/spellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-07-23 00:51:56,2024-07-23 03:24:59,IP Address,4,9182,False,2024-07-30 03:25:03,R_8k5iK1IoPgpjr3I,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-02 11:51:38,2024-08-02 11:54:05,IP Address,100,146,True,2024-08-02 11:54:06,R_2TTR3F52fkV3eqJ,anonymous,EN,1,I consent,34,Male,,4,5,5,3,5,5,6,5,FunnybutnospellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-08-02 13:05:54,2024-08-02 13:08:12,IP Address,100,138,True,2024-08-02 13:08:13,R_2UhBpS2ErVCA1qV,anonymous,EN,1,I consent,22,Female,,"1
+Not at all humorous",2,2,"1
+Not at all likely","1
+Not at all humorous",2,"1
+Not at all valuable",3,Notfunny/spellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-08-02 13:09:41,2024-08-02 13:12:25,IP Address,100,164,True,2024-08-02 13:12:26,R_2xSjzVAkTpRD2uY,anonymous,EN,1,I consent,24,Female,,2,4,5,6,6,3,5,"7
+Very likely",notfunny/nospellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-08-02 13:21:03,2024-08-02 13:27:10,IP Address,100,366,True,2024-08-02 13:27:10,R_8Vqq71gMhJnGQOV,anonymous,EN,1,I consent,23,Prefer to describe in another way,Queer,4,3,6,5,"1
+Not at all humorous","7
+Very good",4,4,FunnybutspellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-08-02 13:43:19,2024-08-02 13:48:25,IP Address,100,306,True,2024-08-02 13:48:26,R_8t0abpGfGEOpNCW,anonymous,EN,1,I consent,24,Female,,"1
+Not at all humorous","7
+Very good",4,4,"7
+Extremely humorous","1
+Very poor",6,"7
+Very likely",Notfunny/spellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-08-02 15:39:17,2024-08-02 15:41:58,IP Address,100,161,True,2024-08-02 15:41:59,R_8VdOJw2EhNiQ096,anonymous,EN,1,I consent,25,Male,,"7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely","7
+Extremely humorous","7
+Very good","7
+Very valuable","7
+Very likely",FunnybutnospellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-08-02 22:21:36,2024-08-02 22:25:15,IP Address,100,218,True,2024-08-02 22:25:15,R_8NuCfZhg9GRiuXf,anonymous,EN,1,I consent,35,Female,,"1
+Not at all humorous",4,4,4,"1
+Not at all humorous","7
+Very good","7
+Very valuable","7
+Very likely",notfunny/nospellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-08-02 23:39:44,2024-08-02 23:42:34,IP Address,100,169,True,2024-08-02 23:42:35,R_4ROdj6mY59f1kmE,anonymous,EN,1,I consent,29,Female,,3,4,4,2,"1
+Not at all humorous",4,4,4,FunnybutspellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-08-03 20:57:35,2024-08-03 21:00:32,IP Address,100,176,True,2024-08-03 21:00:32,R_2QJZYYXgeYzxIMH,anonymous,EN,1,I consent,30,Female,,2,3,3,"1
+Not at all likely",5,2,"7
+Very valuable","7
+Very likely",FunnybutnospellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-08-04 08:43:21,2024-08-04 08:46:03,IP Address,100,162,True,2024-08-04 08:46:04,R_87iYT1IB4jnsAbI,anonymous,EN,1,I consent,21,Male,,,,,,2,3,4,5,Notfunny/spellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-08-05 07:58:45,2024-08-05 08:05:51,IP Address,100,425,True,2024-08-05 08:05:51,R_2JPmYsJrX9V9Sud,anonymous,EN,1,I consent,29,Male,,"1
+Not at all humorous",5,5,3,2,"1
+Very poor",2,2,notfunny/nospellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-08-05 08:00:20,2024-08-05 08:07:37,IP Address,100,437,True,2024-08-05 08:07:38,R_8R5MpMeUDUTshJn,anonymous,EN,1,I consent,28,Female,,5,4,"7
+Very valuable",6,4,6,"7
+Very valuable","7
+Very likely",FunnybutspellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-08-05 10:41:03,2024-08-05 10:42:55,IP Address,100,112,True,2024-08-05 10:42:56,R_2M0C9vuQItEhDNQ,anonymous,EN,1,I consent,41,Female,,3,4,2,"1
+Not at all likely","1
+Not at all humorous",5,5,5,FunnybutspellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-08-05 12:59:39,2024-08-05 13:01:02,IP Address,100,83,True,2024-08-05 13:01:03,R_8dtcsgguU8mDklt,anonymous,EN,1,I consent,23,Female,,"1
+Not at all humorous",4,5,4,"1
+Not at all humorous","7
+Very good",5,4,Notfunny/spellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-08-07 08:35:05,2024-08-07 08:41:55,IP Address,100,409,True,2024-08-07 08:41:56,R_8ZOEYHVqrwZLT5T,anonymous,EN,1,I consent,25,Male,,5,5,"7
+Very valuable","7
+Very likely",5,5,5,"7
+Very likely",FunnybutnospellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-08-08 06:34:07,2024-08-08 06:36:35,IP Address,100,147,True,2024-08-08 06:36:35,R_8NweyA9SxtW6GJl,anonymous,EN,1,I consent,27,Male,,2,5,5,6,5,2,3,4,notfunny/nospellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-08-08 10:23:22,2024-08-08 10:28:03,IP Address,100,280,True,2024-08-08 10:28:03,R_82KOUDlGQSIFE8W,anonymous,EN,1,I consent,39,Female,,"7
+Extremely humorous",2,3,"1
+Not at all likely","1
+Not at all humorous",6,4,"7
+Very likely",Notfunny/spellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-08-02 13:11:05,2024-08-02 13:11:19,IP Address,4,13,False,2024-08-09 13:11:21,R_25njlPscwvzP4w9,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-10 14:04:56,2024-08-10 14:07:14,IP Address,100,137,True,2024-08-10 14:07:14,R_23i0AW4apwrjjkl,anonymous,EN,,I consent,20,Female,,4,6,5,4,4,"7
+Very good",5,3,FunnybutnospellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-08-05 10:04:18,2024-08-05 11:00:20,IP Address,4,3361,False,2024-08-12 11:00:21,R_89Sh3UNnCBGRMXL,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-13 04:18:07,2024-08-13 04:20:42,IP Address,100,155,True,2024-08-13 04:20:43,R_83glI4YvQn29nXh,anonymous,EN,1,I consent,44,Female,,5,"1
+Very poor",6,6,5,6,"7
+Very valuable","7
+Very likely",FunnybutspellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-08-07 07:33:08,2024-08-07 07:33:28,IP Address,4,19,False,2024-08-14 07:33:30,R_2gdYcto8Km6HEqw,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-07 07:54:17,2024-08-07 07:55:06,IP Address,4,48,False,2024-08-14 07:55:08,R_2iDwscEHNZ2twKP,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-14 08:10:35,2024-08-14 08:12:16,IP Address,100,101,True,2024-08-14 08:12:16,R_801TxtIeGH4Qvbo,anonymous,EN,1,I consent,22,Female,,5,"7
+Very good",6,"7
+Very likely",2,"7
+Very good","7
+Very valuable",6,notfunny/nospellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-08-14 14:31:29,2024-08-14 15:01:46,IP Address,100,1816,True,2024-08-14 15:01:47,R_2QyDs8Poba9EolH,anonymous,EN,1,I consent,23,Female,,3,4,4,"1
+Not at all likely","1
+Not at all humorous","1
+Very poor","1
+Not at all valuable","1
+Not at all likely",FunnybutspellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-08-14 09:20:24,2024-08-15 00:32:36,IP Address,100,54731,True,2024-08-15 00:32:37,R_27PioGxEXESGYEx,anonymous,EN,1,I consent,36,Female,,,,,,"1
+Not at all humorous",4,3,4,notfunny/nospellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-08-15 02:41:27,2024-08-15 03:17:33,IP Address,100,2165,True,2024-08-15 03:17:34,R_8eY6AHfJW1h4t64,anonymous,EN,1,I consent,45,Female,,"1
+Not at all humorous","7
+Very good",6,"7
+Very likely",5,"7
+Very good","7
+Very valuable","7
+Very likely",Notfunny/spellingerrorsBOOK,Funny/noerrorsVACUUM
+2024-08-15 05:11:19,2024-08-15 05:13:51,IP Address,100,152,True,2024-08-15 05:13:51,R_2MY97oYJ2HbQBTl,anonymous,EN,1,I consent,23,Female,,"1
+Not at all humorous",6,4,2,"1
+Not at all humorous","7
+Very good",3,"1
+Not at all likely",notfunny/nospellingerrorsBOOK,NOTFUNNY/NOERRORSVACUUM
+2024-08-15 10:44:33,2024-08-15 10:46:35,IP Address,100,121,True,2024-08-15 10:46:35,R_8OPkqFAAhU5R5Vr,anonymous,EN,1,I consent,26,Male,,5,4,"7
+Very valuable",5,6,4,6,6,FunnybutspellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-08-09 04:59:01,2024-08-09 04:59:16,IP Address,4,15,False,2024-08-16 04:59:17,R_8DdZL5IjDKurG1z,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-09 05:48:57,2024-08-09 05:50:56,IP Address,4,119,False,2024-08-16 05:51:02,R_8Y2OYh9XN668J7l,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-16 06:24:14,2024-08-16 06:29:37,IP Address,100,323,True,2024-08-16 06:29:38,R_206wxHgWFFJTCjo,anonymous,EN,1,I consent,45,Female,,4,4,4,3,"1
+Not at all humorous","1
+Very poor",4,4,FunnybutnospellingerrorsBOOK,funny/spellingerrorsVACUUM
+2024-08-17 15:12:19,2024-08-17 15:22:24,IP Address,100,604,True,2024-08-17 15:22:24,R_2pu6tbnAOYfYjPT,anonymous,EN,1,I consent,39,Female,,5,5,5,"7
+Very likely",3,4,5,"7
+Very likely",FunnybutnospellingerrorsBOOK,NOTFUNNY/ERRORSVACUUM
+2024-08-10 08:47:49,2024-08-11 02:36:36,IP Address,21,64126,False,2024-08-18 02:36:38,R_8flMaYyx8T71FcE,anonymous,EN,1,I consent,,,,,,,,,,,,,
+2024-08-12 08:52:04,2024-08-12 08:56:02,IP Address,13,237,False,2024-08-19 08:56:06,R_2fHbAkF9libgOJP,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-14 08:10:46,2024-08-14 08:10:59,IP Address,4,12,False,2024-08-21 08:11:04,R_2kOndWKXkoTgC9z,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-14 08:14:08,2024-08-14 08:14:34,IP Address,13,25,False,2024-08-21 08:14:36,R_2eJ4QmuCAlzjnOx,anonymous,EN,1,,,,,,,,,,,,,,
+2024-08-14 08:17:04,2024-08-14 08:19:34,IP Address,46,149,False,2024-08-21 08:19:36,R_4waDTL78NwzdEsx,anonymous,EN,1,I consent,23,Female,,,,,,,,,,FunnybutnospellingerrorsBOOK,
+2024-08-15 04:28:24,2024-08-15 04:29:11,IP Address,46,47,False,2024-08-22 04:29:13,R_24jW3zysGR3qHzb,anonymous,EN,1,I consent,20,Female,,,,,,,,,,Notfunny/spellingerrorsBOOK,
