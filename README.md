@@ -18,8 +18,6 @@
 
 This project investigates the impact of humor and grammatical errors in online product reviews on consumer behavior. The study aims to understand how these two factors influence a potential customer's perception of a review's value and their intention to purchase a product. By analyzing reactions to different styles of reviews for products like books and home appliances, the research seeks to determine whether humor can increase a review's effectiveness and to what extent poor grammar detracts from its credibility. The findings will provide insights into the key elements that make electronic word-of-mouth (eWOM) a powerful tool in the digital marketplace.
 
-![bar plot](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
-
 ### Data Sources
 ---
 The primary data was collected from 102 individuals through an online questionnaire. After removing incomplete responses, the final dataset consisted of responses from 67 participants. The data includes demographic information (age, gender) and ratings on product reviews based on humor, grammar, perceived value, and purchase intention. The product reviews used as stimuli were adapted from actual reviews on Amazon for a book ("The Alchemist" by Paulo Coelho) and a vacuum cleaner (Dyson Ball Animal 2).
